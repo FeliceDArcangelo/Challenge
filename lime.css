@@ -1,0 +1,71 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-style: normal;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+#layout{
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 50px;
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 50px;
+    border-radius: 10px ;
+}
+
+header{
+    text-align: center;
+}
+#logo{
+    width: 250px;
+    
+}
+
+#title{
+    color: rgb(89, 247, 37);
+    margin: 1px;
+}
+
+
+
+#barrainiziale{
+    background-color: rgb(89, 247, 37);
+    text-align: center;
+    padding: 8px;
+    border-radius: 3px;
+}
+
+.kinds{
+    color: white;
+    line-height: 25px;
+}
+
+
+.aline{
+    display: inline;
+}
+
+
+#stato1{
+    border: 10px solid rgb(255, 197, 73);
+    border-radius: 5px;
+    margin-right: 350px;
+}
+
+
+#stato2{
+    border: 10px solid rgb(99, 198, 50);
+    border-radius: 5px;
+    margin-right: 150px;
+}
+
+
+
+#stato3{
+    border: 10px solid rgb(194, 55, 55);
+    border-radius: 5px;
+    margin-right: 500px;
+}
